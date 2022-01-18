@@ -9,6 +9,7 @@ public class Stream{
     }
 
   
+    
     static String skipString( String input, String ignoreString){
         
         if(input.isEmpty()){
