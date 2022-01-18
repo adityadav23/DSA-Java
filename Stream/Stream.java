@@ -4,7 +4,7 @@ public class Stream{
 
     public static void main(String[] args){
 
-        String x ="qweappleaartab";
+        String x ="qweapplexyz";
         String ignore = "apple";
       String ans =  skipString(x,ignore );
       System.out.println(ans);
